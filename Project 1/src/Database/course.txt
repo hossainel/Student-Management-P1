@@ -1,0 +1,7 @@
+CSE141;Python
+CSE161;C/C++
+MAT161;Linear
+MAT241;Matrix
+CSE281;Java
+MAT141;Integration
+MGT281;Management
