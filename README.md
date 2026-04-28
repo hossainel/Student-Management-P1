@@ -4,10 +4,10 @@ A simple Java Student Management System.
 ## Type: Assignment Project
 ## Usages:
 
-    1. View All Students
-    2. Search Students
-    3. Add Student
-    4. View All Course
-    5. Search Course
-    6. Add Course
-    7. Advise Course
+1. View All Students
+2. Search Students
+3. Add Student
+4. View All Course
+5. Search Course
+6. Add Course
+7. Advise Course
