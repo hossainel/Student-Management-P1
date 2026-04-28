@@ -1,6 +1,6 @@
 # Student-Management-P1
 A simple Java Student Management System.
-I used Model Database - Controller method. Here in Database every txt files acts as a individual table. And the FileManager class handles the files. Secondly Models manages the relationship with the database and the controller. Where controller does rest of the works. And the Main class is to run and operate the complete process smoothly and perfectly. 
+I used Model Database - Controller method. Here in Database every txt files acts as an individual table. And the FileManager class handles the files. Secondly Models manages the relationship with the database and the controller. Where controller does rest of the works. And the Main class is to run and operate the complete process smoothly and perfectly. 
 
 ### Name: 
 Project 1
