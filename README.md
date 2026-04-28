@@ -1,7 +1,12 @@
 # Student-Management-P1
 A simple Java Student Management System. 
-## Name: Project 1. 
-## Type: Assignment Project
+
+### Name: 
+Project 1
+
+### Type: 
+Assignment Project
+
 ## Usages:
 
 1. View All Students
